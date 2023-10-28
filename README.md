@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Mini Blog Card</h1>
 
 <div align="center">
@@ -21,8 +19,6 @@
     </a>
   </h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -64,6 +60,6 @@ $ git clone https://github.com/Sharjeel234/mini-blog-card.git
 
 ## Contact
 
-- GitHub [@Sharjeel234](https://github.com/Sharjeel234)
-- Twitter [@SharjeelM786](https://twitter.com/SharjeelM786)
+- GitHub [Sharjeel234](https://github.com/Sharjeel234)
+- Twitter [SharjeelM786](https://twitter.com/SharjeelM786)
 - LinkedIn [Sharjeel Mansoor](https://linkedin.com/in/sharjeel-mansoor)
